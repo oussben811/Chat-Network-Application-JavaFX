@@ -4,6 +4,8 @@
 
 Javacast Connect is a real-time chat application developed using Java and JavaFX, leveraging Java RMI (Remote Method Invocation) for seamless communication. Users can create chat rooms, send secure messages, and share files effortlessly.
 
+![image](https://github.com/oussben811/Javacast-Connect-Chat-Network-Application-in-Java-JavaFX/assets/78149349/5b53ebd4-f6cd-4764-bce3-f1a5c9af455f)
+
 ## Features
 
 - **Create Chat Rooms:** Users can easily create and join chat rooms.
